@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.fixed {
+    width: 100%;
+    height: 10vh;
+    background-color: darkred;
+    position: fixed;
+    top: 0;
+}
+
+.content {
+    width: 100%;
+    height: 20vh;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh;
+    color: aqua;
+}
+
+a {
+    margin: 0 10px;
+    color: aqua;
+    text-decoration: none;
+}
+
+.def {
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+.sef {
+    display: inline-block;
+    width: 40%;
+    padding: 30px;
+}
+
+.img {
+    display: inline-block;
+}
+
+.p {
+    display: inline-block;
+}
