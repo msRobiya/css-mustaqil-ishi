@@ -57,6 +57,10 @@ a {
     margin: 40px;
 }
 
+.d {
+    font-size: 15px;
+}
+
 .box {
     width: 100%;
     color: brown;
